@@ -40,6 +40,18 @@ With this postprocessing, you will get a json which has all the metadata, and al
 
 ![test report in html](testreporter.png "test report")
 
+Please see the examples folder for a sample usage. 
+
+For running the sample, do the following commands. 
+
+```bash
+
+$ npm install
+$ grunt install
+$ trunt test:e2e
+```
+
+
 
 ## License
 Copyright (c) 2014 Manuel Alabor <manuel@alabor.me>
