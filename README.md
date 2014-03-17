@@ -42,15 +42,18 @@ With this postprocessing, you will get a json which has all the metadata, and al
 
 Please see the examples folder for a sample usage. 
 
-For running the sample, do the following commands. 
+For running the sample, do the following commands in the examples folder
 
 ```bash
 
 $ npm install
 $ grunt install
-$ trunt test:e2e
+$ grunt test:e2e
 ```
 
+After the test run, you can see that, a screenshots folder will be created with all the reports generated. 
+
+Documentation for all options are available in the main repository (protractor-screenshot-reporter)
 
 
 ## License
