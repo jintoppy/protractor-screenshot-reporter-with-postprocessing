@@ -38,6 +38,7 @@ On running the task via grunt, screenshot reporter will be generating json and p
 With this postprocessing, you will get a json which has all the metadata, and also an html page showing the results. 
 
 
+![test report in html](testreporter.png "test report")
 
 
 ## License
