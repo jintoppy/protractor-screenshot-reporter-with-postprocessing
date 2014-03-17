@@ -1,6 +1,4 @@
-# Built on top of Screenshot Reporter for Protractor with a PostProcessor
-
-# Screenshot Reporter for Protractor
+# Built on top of Screenshot Reporter for Protractor with HTML Reports and Screenshots
 
 This is built on top of Screenshot Reporter for Protractor https://github.com/swissmanu/protractor-screenshot-reporter
 
